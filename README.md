@@ -1,2 +1,2 @@
 # Zadania
-Rzowiązanie zadań Maciej Zaleski
+Rozwiązanie zadań HTML i CSS, Maciej Zaleski
