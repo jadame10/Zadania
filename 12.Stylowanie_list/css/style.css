@@ -1,0 +1,11 @@
+.we{
+list-style-type: square;	
+color: #116493;
+
+}
+
+
+.we li{
+display: inline-block;	
+margin-left: 20px;
+}

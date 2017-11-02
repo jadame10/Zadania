@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.g{
+color: darkgrey;	
+}
+
+.e{
+color: darkgrey;
+width: 300px;
+height: 200px;	
+}
+
+.w{
+color: rgba(102,102,102,0.4);
+text-align: start;	
+}
+
+textarea{
+color: rgba(102,102,102,.6);	
+}

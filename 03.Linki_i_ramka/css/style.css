@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cr{
+list-style-type: circle;	
+}
+
+.lq{
+list-style-type: square;	
+}
